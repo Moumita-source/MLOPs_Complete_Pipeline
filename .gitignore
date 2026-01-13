@@ -1,3 +1,8 @@
+# Data , Models and Reports to be excluded
+data
+models
+reports
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]
